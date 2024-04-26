@@ -3,4 +3,5 @@ langchain-openai
 langchain-google-genai
 beautifulsoup4
 faiss-cpu
-
+langchain-google-vertexai
+langchainhub
