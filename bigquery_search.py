@@ -43,5 +43,5 @@ query_vector = embedding.embed_query(query)
 #docs = store.similarity_search_by_vector(query_vector, filter={"len": 6}) 
 #print(docs)
 
-job_id = "US.d53e27ff-c848-4835-8f1a-859c544b3b64"
+job_id = "d53e27ff-c848-4835-8f1a-859c544b3b64"
 print(store.explore_job_stats(job_id))
