@@ -2,6 +2,7 @@ from langchain_google_vertexai import VertexAIEmbeddings
 from google.cloud import bigquery
 from langchain.vectorstores.utils import DistanceStrategy
 from langchain_community.vectorstores import BigQueryVectorSearch
+
 #from google.colab import auth as google_auth
 
 PROJECT_ID = "solid-sun-418711"
